@@ -1,5 +1,3 @@
-
-
 ## this project uses the following flow for now :
 
 ### Scraping 
